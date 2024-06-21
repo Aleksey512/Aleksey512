@@ -3,7 +3,7 @@
 ---
 name: Aleksey Yakunin
 role: Site Reliability Engineer | Backend Engineer
-experience: "2 years"
+experience: "2+ years"
 skills:
   - 💻 Computer Science
   - ☁️ Backend Development
