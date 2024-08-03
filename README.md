@@ -29,7 +29,7 @@ contact:
 [![Programming Languajes](https://skillicons.dev/icons?i=py,bash,go,php)](https://skillicons.dev)
 
 #### I have years of experience working with those Cloud Service Providers
-[![Cloud Service Providers](https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare)](https://skillicons.dev)
+[![Cloud Service Providers](https://skillicons.dev/icons?i=aws,azure,cloudflare)](https://skillicons.dev)
 
 #### I've built houndreds of `CI/CD` pipelines with
 [![CI/CD](https://skillicons.dev/icons?i=gitlab,githubactions)](https://skillicons.dev)
