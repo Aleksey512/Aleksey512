@@ -2,19 +2,18 @@
 # myProfile.yaml
 ---
 name: Aleksey Yakunin
-role: Site Reliability Engineer | Backend Engineer
-experience: "2+ years"
+role: Backend Engineer
+experience: "3+ years"
 skills:
   - 💻 Computer Science
   - ☁️ Backend Development
-  - 🔂 DevOps Culture
   - ✅ Problem Solving
   - 📄 Infrastructure as Code
 
 about: |
-    As an experienced SRE and Backend Engineer, I specialize in ensuring system reliability, scalability, 
+    As an experienced Backend Engineer, I specialize in ensuring system reliability, scalability, 
     and performance. I excel in automating deployment pipelines, fosteringcollaboration between teams, 
-    and swiftly responding to incidents. Proficient in Python and frameworks like Flask and FastAPI, 
+    and swiftly responding to incidents. Proficient in Python/Go and frameworks like FastAPI, 
     I develop RESTful APIs and microservices, optimizing database performance and data security. 
     With a proven track record of delivering complex projects, I'm dedicated to innovation and
     maintaining seamless user experiences.
