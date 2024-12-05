@@ -8,7 +8,6 @@ skills:
   - 💻 Computer Science
   - ☁️ Backend Development
   - ✅ Problem Solving
-  - 📄 Infrastructure as Code
 
 about: |
     As an experienced Backend Engineer, I specialize in ensuring system reliability, scalability, 
@@ -25,16 +24,25 @@ contact:
 ```
 
 #### I feel confident with the following programming languages
-[![Programming Languajes](https://skillicons.dev/icons?i=py,bash,go,php)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=py,bash,go)](https://skillicons.dev)
 
-#### I have years of experience working with those Cloud Service Providers
-[![Cloud Service Providers](https://skillicons.dev/icons?i=aws,azure,cloudflare)](https://skillicons.dev)
+#### I have worked with the following frameworks
+[![Frameworks](https://skillicons.dev/icons?i=django,fastapi)](https://skillicons.dev)
+
+#### I like working with brokers
+[![Message Brokers](https://skillicons.dev/icons?i=kafka,rabbitmq)](https://skillicons.dev)
 
 #### I've built houndreds of `CI/CD` pipelines with
 [![CI/CD](https://skillicons.dev/icons?i=gitlab,githubactions)](https://skillicons.dev)
 
 #### I really love to use container technologies, specially
-[![Containers](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
+[![Containers](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+
+#### I like to work in the following ide
+[![IDE](https://skillicons.dev/icons?i=neovim,vim)](https://skillicons.dev)
+
+#### My favorite OS
+[![OS](https://skillicons.dev/icons?i=arch,linux)](https://skillicons.dev)
 
 <!--
 **Aleksey512/Aleksey512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
