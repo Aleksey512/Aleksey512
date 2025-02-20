@@ -23,38 +23,38 @@ contact:
   telegram: https://t.me/aleks_yakunin
 ```
 
-#### I feel confident with the following programming languages
-[![Programming Languages](https://skillicons.dev/icons?i=py,bash,go)](https://skillicons.dev)
 
-#### I have worked with the following frameworks
-[![Frameworks](https://skillicons.dev/icons?i=django,fastapi)](https://skillicons.dev)
+---
 
-#### I like working with brokers
-[![Message Brokers](https://skillicons.dev/icons?i=kafka,rabbitmq)](https://skillicons.dev)
+## 🛠 Tech Stack  
 
-#### I've built houndreds of `CI/CD` pipelines with
-[![CI/CD](https://skillicons.dev/icons?i=gitlab,githubactions)](https://skillicons.dev)
+### 📌 Programming Languages  
+![Python](https://skillicons.dev/icons?i=py) ![Go](https://skillicons.dev/icons?i=go) ![Bash](https://skillicons.dev/icons?i=bash)
 
-#### I really love to use container technologies, specially
-[![Containers](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+### 🏗️ Frameworks  
+![Django](https://skillicons.dev/icons?i=django) ![FastAPI](https://skillicons.dev/icons?i=fastapi)
 
-#### I like to work in the following ide
-[![IDE](https://skillicons.dev/icons?i=neovim,vim)](https://skillicons.dev)
+### 📡 Message Brokers  
+![Kafka](https://skillicons.dev/icons?i=kafka) ![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)
 
-#### My favorite OS
-[![OS](https://skillicons.dev/icons?i=arch,linux)](https://skillicons.dev)
+### 🔧 CI/CD & DevOps  
+![GitLab](https://skillicons.dev/icons?i=gitlab) ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) ![Docker](https://skillicons.dev/icons?i=docker)
 
-<!--
-**Aleksey512/Aleksey512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Preferred IDEs  
+![Neovim](https://skillicons.dev/icons?i=neovim) ![Vim](https://skillicons.dev/icons?i=vim)
 
-Here are some ideas to get you started:
+### 🖥️ Favorite OS  
+![Arch](https://skillicons.dev/icons?i=arch)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 My Coding Stats  
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/alyakunin)  
+
+---
+
+## 🔗 Contact Me  
+📧 **Email:** yakunina1111@gmail.com  
+🐙 **GitHub:** [Aleksey512](https://github.com/Aleksey512)  
+📩 **Telegram:** [@aleks_yakunin](https://t.me/aleks_yakunin)  
