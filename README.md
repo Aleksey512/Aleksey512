@@ -50,7 +50,7 @@ contact:
 
 ## 📊 My Coding Stats  
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/alyakunin?ext=activity)  
+![Leetcode Stats](https://leetcard.jacoblin.cool/alyakunin)  
 
 ---
 
