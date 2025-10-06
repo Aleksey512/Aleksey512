@@ -46,7 +46,7 @@ contact:
 ### 👀 Monitoring
 ![Monitoring](https://skills.syvixor.com/api/icons?perline=15&i=sentry,grafana,prometheus,loki,opentelemetry,jaeger)
 
-### 👀 Tests
+### 🧑‍💻 Tests
 ![Tests](https://skills.syvixor.com/api/icons?perline=15&i=pytest,postman)
 
 ### 💻 Preferred IDEs  
