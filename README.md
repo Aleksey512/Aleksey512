@@ -66,4 +66,4 @@ contact:
 ## 🔗 Contact Me  
 [![Email](https://skills.syvixor.com/api/icons?perline=1&i=gmail)](mailto:yakunina1111@gmail.com)
 [![GitHub](https://skills.syvixor.com/api/icons?perline=1&i=github)](https://github.com/Aleksey512)
-[![Tg](https://skills.syvixor.com/api/icons?perline=1&i=telegram)](https://t.me/aleks_yakunin) 
+[![Tg](https://skills.syvixor.com/api/icons?perline=1&i=telegram)](https://t.me/uakunin) 
