@@ -64,13 +64,3 @@ contact:
 📧 **Email:** yakunina1111@gmail.com  
 🐙 **GitHub:** [Aleksey512](https://github.com/Aleksey512)  
 📩 **Telegram:** [@aleks_yakunin](https://t.me/aleks_yakunin)  
-
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/alyakunin)  
-
----
-
-## 🔗 Contact Me  
-📧 **Email:** yakunina1111@gmail.com  
-🐙 **GitHub:** [Aleksey512](https://github.com/Aleksey512)  
-📩 **Telegram:** [@aleks_yakunin](https://t.me/aleks_yakunin)  
