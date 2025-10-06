@@ -29,28 +29,31 @@ contact:
 ## 🛠 Tech Stack  
 
 ### 📌 Programming Languages  
-![Python](https://skillicons.dev/icons?i=py,go,bash)
+![Python](https://skills.syvixor.com/api/icons?perline=15&i=python,go,bash,lua,md)
 
 ### 🏗️ Frameworks  
-![Django](https://skillicons.dev/icons?i=django,fastapi,flask)
+![Django](https://skills.syvixor.com/api/icons?perline=15&i=django,fastapi,flask,gin,fiber,echo)
 
 ### 📚 Databases
-![DBs](https://skillicons.dev/icons?i=postgresql,redis,mongo,sqlite)
+![DBs](https://skills.syvixor.com/api/icons?perline=15&i=postgresql,redis,mongo,sqlite)
 
 ### 📡 Message Brokers  
-![Brokers](https://skillicons.dev/icons?i=kafka,rabbitmq)
+![Brokers](https://skills.syvixor.com/api/icons?perline=15&i=kafka,rabbitmq)
 
 ### 🔧 CI/CD & DevOps  
-![CICD](https://skillicons.dev/icons?i=gitlab,githubactions,docker,kubernetes,terraform,aws)
+![CICD](https://skills.syvixor.com/api/icons?perline=15&i=gitlab,githubactions,docker,kubernetes,terraform)
 
 ### 👀 Monitoring
-![Monitoring](https://skillicons.dev/icons?i=sentry,grafana,elasticsearch,prometheus)
+![Monitoring](https://skills.syvixor.com/api/icons?perline=15&i=sentry,grafana,prometheus,loki,opentelemetry,jaeger)
+
+### 👀 Tests
+![Tests](https://skills.syvixor.com/api/icons?perline=15&i=pytest,postman)
 
 ### 💻 Preferred IDEs  
-![IDE](https://skillicons.dev/icons?i=neovim,vim)
+![IDE](https://skills.syvixor.com/api/icons?perline=15&i=neovim,vim)
 
 ### 🖥️ Favorite OS  
-![OS](https://skillicons.dev/icons?i=linux)
+![OS](https://skills.syvixor.com/api/icons?perline=15&i=linux,macos)
 
 ---
 
@@ -61,6 +64,6 @@ contact:
 ---
 
 ## 🔗 Contact Me  
-📧 **Email:** yakunina1111@gmail.com  
-🐙 **GitHub:** [Aleksey512](https://github.com/Aleksey512)  
-📩 **Telegram:** [@aleks_yakunin](https://t.me/aleks_yakunin)  
+[![Email](https://skills.syvixor.com/api/icons?perline=1&i=gmail)](mailto:yakunina1111@gmail.com)
+[![GitHub](https://skills.syvixor.com/api/icons?perline=1&i=github)](https://github.com/Aleksey512)
+[![Tg](https://skills.syvixor.com/api/icons?perline=1&i=telegram)](https://t.me/aleks_yakunin) 
