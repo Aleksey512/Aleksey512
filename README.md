@@ -18,6 +18,7 @@ about: |
     maintaining seamless user experiences.
 
 contact:
+  site: https://aleksey512.github.io/
   email: yakunina1111@gmail.com
   github: https://github.com/Aleksey512
   telegram: https://t.me/aleks_yakunin
