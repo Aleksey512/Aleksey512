@@ -3,7 +3,7 @@
 ---
 name: Aleksey Yakunin
 role: Backend Engineer
-experience: "3+ years"
+experience: "5+ years"
 skills:
   - 💻 Computer Science
   - ☁️ Backend Development
